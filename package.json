@@ -1,18 +1,12 @@
 {
   "name": "eyu-egg-mqtt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "egg": {
     "declarations": true
   },
   "eggPlugin": {
-    "name": "eyuEggMQTT",
-    "env": [
-      "local",
-      "test",
-      "unittest",
-      "prod"
-    ]
+    "name": "eyuEggMQTT"
   },
   "keywords": [
     "egg",
