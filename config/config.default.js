@@ -11,6 +11,7 @@ exports.mqtt = {
   //   port: 1883,
   //   username: 'xxx',
   //   password: 'xxxxxxx',
+  //   clientIdPrefix: '',
   //   keepalive: 60,
   //   cleanup: true
   // }
