@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 /**
  * eyu-egg-mqtt default config
@@ -7,6 +7,7 @@
 exports.mqtt = {
   app: true,
   // client: {
+  //   wssUrl: 'wss://xxx.xxx/',
   //   host: 'xxx.xxx.xxx.xxx',
   //   port: 1883,
   //   username: 'xxx',
@@ -15,4 +16,4 @@ exports.mqtt = {
   //   keepalive: 60,
   //   cleanup: true
   // }
-}
+};

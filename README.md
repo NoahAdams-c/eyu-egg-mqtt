@@ -36,6 +36,7 @@ exports.eyuEggMQTT = {
 // {app_root}/config/config.default.js
 exports.mqtt = {
   client: {
+    wssUrl: 'wss://xxx.xxx/'
     host: 'xxx.xxx.xxx.xxx',
     port: 1883,
     username: 'xxx',
