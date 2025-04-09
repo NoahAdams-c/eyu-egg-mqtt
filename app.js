@@ -1,5 +1,5 @@
-const mqttPlugin = require('./lib/mqtt')
+const mqttPlugin = require('./lib/mqtt');
 
 module.exports = app => {
-  mqttPlugin(app)
-}
+  mqttPlugin(app);
+};
